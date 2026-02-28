@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:0,ANIME
+#EXTGRP:unsorted
+http://181.78.8.199:8000/play/a0ah/index.m3u8
+#EXTINF:0,CARACOL
+#EXTGRP:unsorted
+http://181.78.8.199:8000/play/a08s/index.m3u8
+#EXTINF:0,ESPN HD
+#EXTGRP:unsorted
+http://189.50.210.3:8008/play/a07m/index.m3u8
+#EXTINF:0,ESPN 2
+#EXTGRP:unsorted
+http://189.50.210.3:8008/play/a033/index.m3u8
+#EXTINF:0,ESPN 3
+#EXTGRP:unsorted
+http://189.50.210.3:8008/play/a04b/index.m3u8
+#EXTINF:0,ESPN 4
+#EXTGRP:unsorted
+http://189.50.210.3:8008/play/a04a/index.m3u8
+#EXTINF:0,ESPN 5
+#EXTGRP:unsorted
+http://189.50.210.3:8008/play/a030/index.m3u8
+#EXTINF:0,ESPN 6
+#EXTGRP:unsorted
+http://189.50.210.3:8008/play/a04c/index.m3u8
+#EXTINF:0,HISTORY
+#EXTGRP:unsorted
+http://181.78.8.199:8000/play/a0an/index.m3u8
+#EXTINF:0,HISTORY 2
+#EXTGRP:unsorted
+http://181.78.8.199:8000/play/a0ag/index.m3u8
+#EXTINF:0,RCN
+#EXTGRP:unsorted
+http://181.78.8.199:8000/play/a0hx/index.m3u8
+#EXTINF:0,WIN
+#EXTGRP:unsorted
+http://181.78.8.199:8000/play/a09s/index.m3u8
+#EXTINF:0,WIN+
+#EXTGRP:unsorted
+http://181.78.8.199:8000/play/a06v/index.m3u8
