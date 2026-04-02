@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:0,CARACOL HD
+#EXTGRP:Deportes
+http://190.60.49.242:4000/play/a0pt/index.m3u8
+#EXTINF:0,CARACOL HD2
+#EXTGRP:Deportes
+http://190.60.49.242:4000/play/a0pe/index.m3u8
+#EXTINF:0,CARACOL TDT
+#EXTGRP:Deportes
+http://186.33.52.222:8000/play/a16t
+#EXTINF:0,ESPN HD
+#EXTGRP:Deportes
+http://189.50.210.3:8008/play/a07m/index.m3u8
+#EXTINF:0,ESPN HD
+#EXTGRP:Deportes
+http://181.78.14.26:4000/play/a009/index.m3u8
+#EXTINF:0,ESPN Deportes
+#EXTGRP:Deportes
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/350059.ts
+#EXTINF:0,SKY LA LIGA SD
+#EXTGRP:Deportes
+http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:0,Win
+#EXTGRP:Deportes
+http://181.78.8.199:8000/play/a0cc/index.m3u8
+#EXTINF:0,WIN+
+#EXTGRP:Deportes
+http://181.78.79.131:8000/play/a0n1
