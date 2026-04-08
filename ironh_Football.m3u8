@@ -5,13 +5,7 @@ http://189.50.210.3:8008/play/a07m/index.m3u8
 #EXTINF:0,ESPN HD
 #EXTGRP:Deportes
 http://181.78.14.26:4000/play/a009/index.m3u8
-#EXTINF:0,ESPN Deportes
-#EXTGRP:Deportes
-http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/350059.ts
-#EXTINF:0,SKY LA LIGA SD
-#EXTGRP:Deportes
-http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:0,Win
+#EXTINF:0,WIN
 #EXTGRP:Deportes
 http://181.78.8.199:8000/play/a0cc/index.m3u8
 #EXTINF:0,WIN+
