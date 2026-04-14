@@ -24,3 +24,6 @@ http://181.78.8.199:8000/play/a0cc/index.m3u8
 #EXTGRP:Deportes
 http://181.78.79.131:8000/play/a0n1
 
+#EXTINF:0,WIN+ HD
+#EXTGRP:Deportes
+http://fortv.cc:8080/17015084/13150664/78717
