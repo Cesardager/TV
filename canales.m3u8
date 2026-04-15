@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,DIRECTV+
+#EXTINF:-1,DirectTV Sports+
 #EXTGRP:Deportes
 http://217.26.190.76:8888/play/a0jb/index.m3u8
 
