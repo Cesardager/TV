@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:0,CARACOL Internacional
-#EXTGRP:Novelas
-http://fortv.cc:8080/17015084/13150664/78701
-
 #EXTINF:0,CARACOL
 #EXTGRP:Novelas
-http://fortv.cc:8080/17015084/13150664/78700
+http://181.78.8.199:8000/play/a0b0/index.m3u8
+
+#EXTINF:0,CARACOL 2
+#EXTGRP:Novelas
+http://190.60.49.242:4000/play/a0pe/index.m3u8
 
 #EXTINF:0,Canal Las Estrellas
 #EXTGRP:Novelas
