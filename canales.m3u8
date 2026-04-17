@@ -24,7 +24,7 @@ http://181.78.14.26:4000/play/a009/index.m3u8
 #EXTGRP:Deportes
 http://181.78.14.26:4000/play/a02p/index.m3u8
 
-#EXTINF:-1,WIN
+#EXTINF:-1 tvg-logo="https://image.pngaaa.com/657/1079657-middle.png",WIN
 #EXTGRP:Deportes
 http://181.78.8.199:8000/play/a06v/index.m3u8
 
