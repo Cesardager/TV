@@ -20,6 +20,10 @@ http://217.26.190.76:8888/play/a0jb/index.m3u8
 #EXTGRP:Deportes
 http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125648.ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN MEX
+#EXTGRP:Deportes
+http://45.5.119.43:4000/play/a052/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN LAT
 #EXTGRP:Deportes
 http://38.224.172.198:8000/play/a00f/index.m3u8
