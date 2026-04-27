@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dazn.png",DAZN
-#EXTGRP:Deportes
-https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports
 #EXTGRP:Deportes
 http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125646.ts
@@ -63,8 +59,4 @@ http://181.78.8.199:8000/play/a0cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/win.png",WIN+
 #EXTGRP:Deportes
 http://181.78.79.131:8000/play/a0n1
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/win.png",WIN+ (ALT)
-#EXTGRP:Deportes
-http://190.60.40.34:8001/play/a02r
 
