@@ -1,60 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports
-#EXTGRP:Deportes
-http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125647.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports 2
-#EXTGRP:Deportes
-http://front-main.eagle-4k.me:80/live/r1y1vv2q55/b0ciw3qsbs/40975.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports 2 (ALT)
-#EXTGRP:Deportes
-http://217.26.190.76:8888/play/a0jb/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports 2
-#EXTGRP:Deportes
-http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125648.ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN
 #EXTGRP:Deportes
 http://38.224.172.198:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN 2
 #EXTGRP:Deportes
-http://181.78.14.26:4000/play/a02p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN 3
-#EXTGRP:Deportes
-http://181.78.14.26:4000/play/a062/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN 4
-#EXTGRP:Deportes
-http://181.78.14.26:4000/play/a0bw/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN 5
-#EXTGRP:Deportes
-http://181.78.14.26:4000/play/a03x/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN 6
-#EXTGRP:Deportes
-http://181.78.14.26:4000/play/a03y/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN 7
-#EXTGRP:Deportes
-http://181.78.14.26:4000/play/a042/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN Deportes
-#EXTGRP:Deportes
-http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/350059.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN Premium
-#EXTGRP:Deportes
-http://38.7.101.90:8000/play/a1f6/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/skysports.png",Sky Sports
-#EXTGRP:Deportes
-http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/492893.ts
+http://181.78.14.26:4000/play/a05c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/laliga.png",Sky Sports La Liga
 #EXTGRP:Deportes
