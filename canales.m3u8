@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports
+#EXTGRP:Deportes
+https://smjt9q.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=38.224.245.13&token=11151839d005be421426cdd23d91a55f067afe26-df-1779265477-1779211477
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN
 #EXTGRP:Deportes
 http://38.224.172.198:8000/play/a00f/index.m3u8
@@ -7,34 +11,6 @@ http://38.224.172.198:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN 2
 #EXTGRP:Deportes
 http://181.78.14.26:4000/play/a02p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN 3
-#EXTGRP:Deportes
-http://181.78.14.26:4000/play/a062/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN 4
-#EXTGRP:Deportes
-http://181.78.14.26:4000/play/a0bw/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN 5
-#EXTGRP:Deportes
-http://181.78.14.26:4000/play/a03x/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN 6
-#EXTGRP:Deportes
-http://181.78.14.26:4000/play/a03y/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN 7
-#EXTGRP:Deportes
-http://181.78.14.26:4000/play/a042/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN Deportes
-#EXTGRP:Deportes
-http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/350059.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN Premium
-#EXTGRP:Deportes
-http://38.7.101.90:8000/play/a1f6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/skysports.png",Sky Sports
 #EXTGRP:Deportes
