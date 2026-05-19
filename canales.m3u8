@@ -26,5 +26,4 @@ http://181.78.8.199:8000/play/a0cc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/win.png",WIN+
 #EXTGRP:Deportes
-https://ub2dr.envivoslatam.org/winplus/tracks-v1a1/mono.m3u8?ip=38.224.245.13&token=c2c426c474a56b20c4fa90862eb5d86c0ca198ac-ea-1779264815-1779210815
-
+http://190.60.37.118:4000/play/a0bw
