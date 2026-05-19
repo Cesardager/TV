@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports
-#EXTGRP:Deportes
-https://pvtn5y.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=38.224.245.13&token=bf3c339cbb161cfe3a6e756e1f7e5bc84ac59c06-85-1779265157-1779211157
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN
 #EXTGRP:Deportes
 http://38.224.172.198:8000/play/a00f/index.m3u8
