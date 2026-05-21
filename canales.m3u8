@@ -1,32 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports 2
-#EXTGRP:Deportes
-https://tecnotv.club/d542/phpcode/deportesla14hd.php?stream=dsports2&token=tecnotokenplustv230516F
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports+
-#EXTGRP:Deportes
-https://tecnotv.club/d542/phpcode/deportesla14hd.php?stream=dsportsplus&token=tecnotokenplustv230516F
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN HD
-#EXTGRP:Deportes
-http://tecnotv.club/d542/phpcode/ssiptv.php?c=a052&token=tecnotokenplustv230516F&f=.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN
 #EXTGRP:Deportes
 http://38.224.172.198:8000/play/a00f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN 2
-#EXTGRP:Deportes
-http://181.78.14.26:4000/play/a02p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/laliga.png",Sky Sports La Liga
-#EXTGRP:Deportes
-http://tecnotv.club/d542/phpcode/ssiptv.php?c=a05r&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/laliga.png",Sky Sports La Liga 2
-#EXTGRP:Deportes
-https://tecnotv.club/d542/phpcode/deportesla14hd.php?stream=sky_sports_laliga&token=tecnotokenplustv230516F
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/laliga.png",Sky Sports La Liga (ALT)
 #EXTGRP:Deportes
@@ -43,7 +19,3 @@ http://181.78.8.199:8000/play/a0cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/win.png",WIN+ SD
 #EXTGRP:Deportes
 http://190.60.37.118:4000/play/a0bw
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/win.png",WIN+
-#EXTGRP:Deportes
-https://tecnotv.club/d542/phpcode/deportesla14hd.php?stream=winsportsplus&token=tecnotokenplustv230516F
