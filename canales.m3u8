@@ -16,6 +16,17 @@ http://181.78.8.199:8000/play/a06v/index.m3u8
 #EXTGRP:Deportes
 http://181.78.8.199:8000/play/a0cc/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/win.png",WIN+
 #EXTGRP:Deportes
-https://tecnotv.club/dw11/phpcode/deportesla14hd.php?stream=winsports2&token=tecnotokenplustv230516F
+http://181.78.79.131:8000/play/a0n1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/win.png",WIN++
+#EXTGRP:Deportes
+https://tecnotv.club/p2e2/phpcode/deportesla14hd.php?stream=winsportsplus&token=tecnotokenplustv230516F
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/win.png",WIN+++
+#EXTGRP:Deportes
+https://tecnotv.club/p2e2/phpcode/deportesla14hd.php?stream=winsports2&token=tecnotokenplustv230516F
+
+
