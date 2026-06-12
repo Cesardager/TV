@@ -1,12 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",ESPN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",DSports
 #EXTGRP:Deportes
-http://38.224.172.198:8000/play/a00f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/laliga.png",Sky Sports La Liga (ALT)
-#EXTGRP:Deportes
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
+https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/win.png",WIN
 #EXTGRP:Deportes
@@ -19,13 +15,4 @@ http://181.78.8.199:8000/play/a0cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/win.png",WIN+
 #EXTGRP:Deportes
 http://181.78.79.131:8000/play/a0n1
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/win.png",WIN++
-#EXTGRP:Deportes
-https://tecnotv.club/p2e2/phpcode/deportesla14hd.php?stream=winsportsplus&token=tecnotokenplustv230516F
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/win.png",WIN+++
-#EXTGRP:Deportes
-https://tecnotv.club/p2e2/phpcode/deportesla14hd.php?stream=winsports2&token=tecnotokenplustv230516F
-
 
