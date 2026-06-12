@@ -1,8 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn%20(1).png",Espn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports
 #EXTGRP:Deportes
-https://mivra.vivolatamz.org/lb04/disney1/index.m3u8?token=4b46ea8fc9261519c2012391e4e41665593a7d94-aa-1781337163-1781283163&ip=38.224.244.53
+http://190.61.41.181:8000/play/a0r5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports
+#EXTGRP:Deportes
+http://179.43.96.253:8000/play/a24w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/win.png",WIN
 #EXTGRP:Deportes
