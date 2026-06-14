@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/caracol.png",Caracol
-#EXTGRP:Deportes
-https://caracolgolb.cdn.mdstrm.com/live-stream-gdai/58d1aed1b6318eec59278b0b/linear/hls/pa/event/3Ebd2aE8T7m6c5CbXXUnmQ/stream/523e1e14-e669-44e7-8403-94f5df6c23ef:CBF2/variant/bac03b73371180eaf61acaee7fae90b2/bandwidth/5200800.m3u8?_Expires=1781323856&_Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jYXJhY29sZ29sYi5jZG4ubWRzdHJtLmNvbS9saXZlLXN0cmVhbS1zZWN1cmUvNThkMWFlZDFiNjMxOGVlYzU5Mjc4YjBiLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODEzMjM4NTZ9fX1dfQ__&_Signature=OeigwDSiHIzjtUyhPs5aO6Ie-vpvF23nZhzaBC6KobR4CoaQMZd0PDB660rYqMJL9QQ8NP7U3-n3XaKYYleBvVeI0p97-Ax2tRZKJhuuDptPjsqSDtW2ZZp8yqDYeLmNTvwJjv0-CItfhdD4UPeDx0csjuepAfKbo6Oizv0y2CtjfBSRVOB31RVoBo3F~a7aSIX0F6tiZ1OdsR8KPHUY5ltHRapT4UJUgpgqLd93rcB1JaM~1AmvaXlEFleOTNqlEn8awGucmtALoa9zemwvUnCA5A9cR1F-5NxO7BwWHLlTXjy9lMfWAbgSsP3EjNU5iyti22fjsxvA6VVpNu3IOQ__&_Key_Pair_Id=APKAICBOAD57CDQK6EDQ&aid=589b1365f30bc52f54100dd8&dnt=true&access_token=rCH67Lq03oo0PzFe4Uq5Lv7wpdxvXz2f77dJn4CZnXu27n9FLUFDBJmJtrOzUWQOBa0wkQYR6Xp&uid=CTrc05iZdGvQwbriZYSgWlHg9HOILsbh&sid=zq1uT9YakFhUOpYgl15wAs8717fFtIIB&pid=60xiPaLe6NNEfW2xUlDUdCIH0yldKtnv&ref=mdstrm.com&ext_pb=0&adInsertionGoogleStreamId=523e1e14-e669-44e7-8403-94f5df6c23ef%3ACBF2&es=caracolgolb.cdn.mdstrm.com&proto=https&pz=us
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/caracol.png",Caracol TDT
 #EXTGRP:Deportes
 http://186.33.52.222:8000/play/a16t
@@ -12,9 +8,21 @@ http://186.33.52.222:8000/play/a16t
 #EXTGRP:Deportes
 http://190.61.41.181:8000/play/a0r5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports (ALT)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports (2)
 #EXTGRP:Deportes
 http://179.43.96.253:8000/play/a24w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports (3)
+#EXTGRP:Deportes
+http://148.222.230.197:8000/play/a0mm/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports (4)
+#EXTGRP:Deportes
+http://190.117.20.37:8000/play/a08d/index.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports (5)
+#EXTGRP:Deportes
+http://190.7.19.197:232/play/a09i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/win.png",WIN
 #EXTGRP:Deportes
