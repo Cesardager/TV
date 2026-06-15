@@ -4,6 +4,10 @@
 #EXTGRP:Deportes
 http://186.33.52.222:8000/play/a16t
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports+
+#EXTGRP:Deportes
+http://190.61.41.181:8000/play/a0r3/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports
 #EXTGRP:Deportes
 http://190.61.41.181:8000/play/a0r5/index.m3u8
