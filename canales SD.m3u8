@@ -4,7 +4,15 @@
 #EXTGRP:Deportes
 http://186.33.52.222:8000/play/a16t
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports(3)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports+
+#EXTGRP:Deportes
+http://190.108.83.69:8000/play/a05w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports1
+#EXTGRP:Deportes
+http://181.78.8.199:8000/play/a06v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports2
 #EXTGRP:Deportes
 http://191.97.59.33:8000/play/a09t/index.m3u8
 
