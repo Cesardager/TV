@@ -2,7 +2,11 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/caracol.png",Caracol
 #EXTGRP:Deportes
-http://186.33.52.222:8000/play/a16t
+http://astra.fibernetisp.com.co/play/a0tf/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/caracol.png",Caracol TDT
+#EXTGRP:Deportes
+http://190.60.49.242:4000/play/a0pe/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports+
 #EXTGRP:Deportes
