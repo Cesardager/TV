@@ -12,6 +12,10 @@ http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTGRP:Deportes
 http://190.61.41.181:8000/play/a0r5/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports.
+#EXTGRP:Deportes
+http://179.43.96.253:8000/play/a24w/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports 2
 #EXTGRP:Deportes
 http://190.61.41.181:8000/play/a0r4/index.m3u8
