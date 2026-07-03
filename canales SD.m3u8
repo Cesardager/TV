@@ -1,8 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/caracol.png",Caracol TDT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/caracol.png",Caracol
 #EXTGRP:Deportes
-http://190.60.49.242:4000/play/a0pe/index.m3u8
+http://181.78.8.199:8000/play/a0b0/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/caracol.png",RCN
+#EXTGRP:Deportes
+http://181.78.8.199:8000/play/a09l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports+
 #EXTGRP:Deportes
@@ -15,6 +19,10 @@ http://191.97.59.33:8000/play/a09t/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports
 #EXTGRP:Deportes
 http://190.61.41.181:8000/play/a0r5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports
+#EXTGRP:Deportes
+http://181.78.8.199:8000/play/a0cc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports 2
 #EXTGRP:Deportes
