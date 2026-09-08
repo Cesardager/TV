@@ -12,6 +12,10 @@ http://179.43.96.253:8000/play/a24x/index.m3u8
 #EXTGRP:Deportes
 http://181.78.79.131:8000/play/a0qj
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn (1).png",ESPN 5
+#EXTGRP:Deportes
+http://181.78.82.130:8000/play/a0e8/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/laliga.png",Sky Sports:LALIGA
 #EXTGRP:Deportes
 http://179.60.224.196:8000/play/a0i7/index.m3u8
@@ -19,6 +23,10 @@ http://179.60.224.196:8000/play/a0i7/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/win.png",WIN
 #EXTGRP:Deportes
 http://181.78.8.199:8000/play/a0cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/win.png",WIN
+#EXTGRP:Deportes
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/win.png",WIN+
 #EXTGRP:Deportes
