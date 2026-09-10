@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/dsports.png",DSports
-#EXTGRP:Deportes
-http://179.43.96.253:8000/play/a24w/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn (1).png",ESPN
 #EXTGRP:Deportes
 http://179.43.96.253:8000/play/a24x/index.m3u8
@@ -11,10 +7,6 @@ http://179.43.96.253:8000/play/a24x/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn (1).png",ESPN[alt]
 #EXTGRP:Deportes
 http://181.78.8.199:8000/play/a0b1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn (1).png",ESPN 2
-#EXTGRP:Deportes
-http://181.78.79.131:8000/play/a0qj
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cesardager/TV/refs/heads/main/Logos/espn (1).png",ESPN 5
 #EXTGRP:Deportes
